@@ -1,3 +1,22 @@
+Motivation behind reviving Nabla
+
+I am fascinated by discontinued software ALK2 by ZenAudio and Nabla Looper got relatively close with it's features and usability.
+But, I see a room for improvement and if everything goes all right, Nabla should change this way:
+* no need for delay effects on record->play immediate transition
+* usage of fixed lanes instead of free items positioning
+* improved usability of 'panic' mode for user
+* easier overall handling with advanced GUI script
+* minor improvements to script performance
+* new actions like one for offline analysis of clips on song's timeline
+* ...
+
+I will try to make it work, but it may take longer time.
+Until then use official release by Esteban.
+
+Hipox
+
+---
+
 Arranged Guide [en]
 
 ## Get started with Arranged Mode
